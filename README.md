@@ -50,6 +50,10 @@
     十年后林晓然的动态，展现平静生活与释然心境，为救赎铺垫。
 21. **[林晓然2035年梦境动态](https://github.com/yukoimi/TwoRealmsDiary/blob/main/21_林晓然2035年梦境动态.markdown)**  
     林晓然梦中与书记对话，揭示善恶真相，迎来好结局。阴影消殁，光明终降。
+22. **[旧物箱的蓝色回响](https://github.com/yukoimi/TwoRealmsDiary/blob/main/22_旧物箱的蓝色回响.markdown)**  
+    林晓然整理旧物，回忆探索经历，释然告别过去。
+23. **[雾地留言](https://github.com/yukoimi/TwoRealmsDiary/blob/main/23_雾地留言.markdown)**  
+    幸存者在雾地留言，揭示书记意识中枢与仪式影响。
 
 ## 阅读建议
 - 按顺序阅读以体验故事的完整推理过程，从34中学的压迫到3.4中学的超自然揭秘，再到林晓然的抗争与结局。
