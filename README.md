@@ -56,7 +56,7 @@
     幸存者在雾地留言，揭示书记意识中枢与仪式影响。
 24. **[废墟旅人的笔记](https://github.com/yukoimi/TwoRealmsDiary/blob/main/24_废墟旅人的笔记.markdown)**  
     探险者在34中学废墟图书馆等地确认裂隙永封，幸存者回归现实。
-25. **[幸存者的蓝色信笺](https://github.com/yukoimi/TwoRealmsDiary/blob/main/25_幸存者的蓝色信笺.md)**  
+25. **[幸存者的蓝色信笺](https://github.com/yukoimi/TwoRealmsDiary/blob/main/25_幸存者的蓝色信笺.markdown)**  
     幸存者蓝羽回忆3.4中学逃脱，揭示蓝色物品机制，确认现实安全。
 
 ## 阅读建议
