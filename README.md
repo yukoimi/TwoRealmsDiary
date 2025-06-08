@@ -54,6 +54,8 @@
     林晓然整理旧物，回忆探索经历，释然告别过去。
 23. **[雾地留言](https://github.com/yukoimi/TwoRealmsDiary/blob/main/23_雾地留言.markdown)**  
     幸存者在雾地留言，揭示书记意识中枢与仪式影响。
+24. **[废墟旅人的笔记](https://github.com/yukoimi/TwoRealmsDiary/blob/main/24_废墟旅人的笔记.markdown)**  
+    探险者在34中学废墟图书馆等地确认裂隙永封，幸存者回归现实。
 
 ## 阅读建议
 - 按顺序阅读以体验故事的完整推理过程，从34中学的压迫到3.4中学的超自然揭秘，再到林晓然的抗争与结局。
